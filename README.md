@@ -24,7 +24,9 @@ Berdasarkan latar belakang di atas, rumusan masalah yang akan dibahas dalam lapo
 
 ## TUJUAN PENULISAN
 
-Tujuan dari penulisan laporan teknis ini adalah:
+Tujuan dari penulisan laporan teknis ini adalah: <br>
+1. Untuk mengetahui efektivitas dari model random forest dalam mengklasifikasikan level kanker<br>
+2. Untuk Mengetahui Gejala dan faktor apa saja yang mempengaruhi level keparahan kanker<br>
 
 
 
@@ -78,6 +80,13 @@ disini model random forest berhasil mendapat akurasi 100% yang berarti model ber
 ## KESIMPULAN
 
 berdasarkan hasil penelitian tersebut, dapat disimpulkan bahwa algoritma klasifikasi yang digunakan menunjukkan kinerja yang baik dalam mendeteksi kanker paru-paru. Random Forest dapat memprediksi level keparahan dari penyakit kanker paru paru. Dengan menggunakan data latih dan data uji sebesar 80:20 model mempengaruhi akurasi training 100% dan testing 100%. pada evaluasi confusion matriks menunjukan bahwa 61 data pada kelas low, 66 data kelas medium, 73 data kelas high diprediksi dengan benar tanpa ada kesalahan.
+
+
+# INI LINK CANVA NYA YAAAAAA
+
+https://canva.link/4g0ck1kd2n969ig
+
+
 
 
 
