@@ -70,8 +70,14 @@ model yang digunakan adalah random forest yang merupakan salah satu model yang t
 
 <img width="586" height="309" alt="Screenshot 2026-11-15 225328" src="https://github.com/user-attachments/assets/9144dccd-9a72-4a96-872b-6470ea4a259e" /> <br>
 
+<img width="405" height="311" alt="Screenshot 2026-11-16 000445" src="https://github.com/user-attachments/assets/d7f3dba7-cb9e-444f-87a0-b14716524673" />
+
+
 disini model random forest berhasil mendapat akurasi 100% yang berarti model berhasil menebak sesuai label atau target aslinya. 
 
+## KESIMPULAN
+
+berdasarkan hasil penelitian tersebut, dapat disimpulkan bahwa algoritma klasifikasi yang digunakan menunjukkan kinerja yang baik dalam mendeteksi kanker paru-paru. Random Forest dapat memprediksi level keparahan dari penyakit kanker paru paru. Dengan menggunakan data latih dan data uji sebesar 80:20 model mempengaruhi akurasi training 100% dan testing 100%. pada evaluasi confusion matriks menunjukan bahwa 61 data pada kelas low, 66 data kelas medium, 73 data kelas high diprediksi dengan benar tanpa ada kesalahan.
 
 
 
